@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This is an ISE project configuration file.-->
+<!--It holds project specific layout data for the projectmgr plugin.-->
+<!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
+<Project version="2" owner="projectmgr" name="CAD_PHASE1" >
+   <!--This is an ISE project configuration file.-->
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/ALUADDITest T:|fucking uni|CAD|Project|CAD_LAB1_SADRAKHAMOSHI_97521261_AMIRESMAIELI_97521072_KEYVANDADASHZADE97522148|CAD_PHASE1|ALUADDITest.v</ClosedNode>
+         <ClosedNode>/ALUADDTest T:|fucking uni|CAD|Project|CAD_LAB1_SADRAKHAMOSHI_97521261_AMIRESMAIELI_97521072_KEYVANDADASHZADE97522148|CAD_PHASE1|ALUADDTest.v</ClosedNode>
+         <ClosedNode>/ALUANDITest T:|fucking uni|CAD|Project|CAD_LAB1_SADRAKHAMOSHI_97521261_AMIRESMAIELI_97521072_KEYVANDADASHZADE97522148|CAD_PHASE1|ALUANDITest.v</ClosedNode>
+         <ClosedNode>/ALUANDTest T:|fucking uni|CAD|Project|CAD_LAB1_SADRAKHAMOSHI_97521261_AMIRESMAIELI_97521072_KEYVANDADASHZADE97522148|CAD_PHASE1|ALUANDTest.v</ClosedNode>
+         <ClosedNode>/ALUBEQTest T:|fucking uni|CAD|Project|CAD_LAB1_SADRAKHAMOSHI_97521261_AMIRESMAIELI_97521072_KEYVANDADASHZADE97522148|CAD_PHASE1|ALUBEQTest.v</ClosedNode>
+         <ClosedNode>/ALUBNETest T:|fucking uni|CAD|Project|CAD_LAB1_SADRAKHAMOSHI_97521261_AMIRESMAIELI_97521072_KEYVANDADASHZADE97522148|CAD_PHASE1|ALUBNETest.v</ClosedNode>
+         <ClosedNode>/ALULUITest T:|fucking uni|CAD|Project|CAD_LAB1_SADRAKHAMOSHI_97521261_AMIRESMAIELI_97521072_KEYVANDADASHZADE97522148|CAD_PHASE1|ALULUITest.v</ClosedNode>
+         <ClosedNode>/ALULWTest T:|fucking uni|CAD|Project|CAD_LAB1_SADRAKHAMOSHI_97521261_AMIRESMAIELI_97521072_KEYVANDADASHZADE97522148|CAD_PHASE1|ALULWTest.v</ClosedNode>
+         <ClosedNode>/ALUORITest T:|fucking uni|CAD|Project|CAD_LAB1_SADRAKHAMOSHI_97521261_AMIRESMAIELI_97521072_KEYVANDADASHZADE97522148|CAD_PHASE1|ALUORITest.v</ClosedNode>
+         <ClosedNode>/ALUORTest T:|fucking uni|CAD|Project|CAD_LAB1_SADRAKHAMOSHI_97521261_AMIRESMAIELI_97521072_KEYVANDADASHZADE97522148|CAD_PHASE1|ALUORTest.v</ClosedNode>
+         <ClosedNode>/ALUSLLTest T:|fucking uni|CAD|Project|CAD_LAB1_SADRAKHAMOSHI_97521261_AMIRESMAIELI_97521072_KEYVANDADASHZADE97522148|CAD_PHASE1|ALUSLLTest.v</ClosedNode>
+         <ClosedNode>/ALUSRATest T:|fucking uni|CAD|Project|CAD_LAB1_SADRAKHAMOSHI_97521261_AMIRESMAIELI_97521072_KEYVANDADASHZADE97522148|CAD_PHASE1|ALUSRATest.v</ClosedNode>
+         <ClosedNode>/ALUSRLTest T:|fucking uni|CAD|Project|CAD_LAB1_SADRAKHAMOSHI_97521261_AMIRESMAIELI_97521072_KEYVANDADASHZADE97522148|CAD_PHASE1|ALUSRLTest.v</ClosedNode>
+         <ClosedNode>/ALUSWTest T:|fucking uni|CAD|Project|CAD_LAB1_SADRAKHAMOSHI_97521261_AMIRESMAIELI_97521072_KEYVANDADASHZADE97522148|CAD_PHASE1|ALUSWTest.v</ClosedNode>
+         <ClosedNode>/ALUTest T:|fucking uni|CAD|Project|CAD_LAB1_SADRAKHAMOSHI_97521261_AMIRESMAIELI_97521072_KEYVANDADASHZADE97522148|CAD_PHASE1|ALUTest.v</ClosedNode>
+         <ClosedNode>/ALUXORITest T:|fucking uni|CAD|Project|CAD_LAB1_SADRAKHAMOSHI_97521261_AMIRESMAIELI_97521072_KEYVANDADASHZADE97522148|CAD_PHASE1|ALUXORITest.v</ClosedNode>
+         <ClosedNode>/ALUXORTest T:|fucking uni|CAD|Project|CAD_LAB1_SADRAKHAMOSHI_97521261_AMIRESMAIELI_97521072_KEYVANDADASHZADE97522148|CAD_PHASE1|ALUXORTest.v</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Register (T:/fucking uni/CAD/Project/CAD_LAB1_SADRAKHAMOSHI_97521261_AMIRESMAIELI_97521072_KEYVANDADASHZADE97522148/CAD_PHASE1/Registers.v)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >9</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000000e4000000020000000000000000000000000200000064ffffffff000000810000000300000002000000e40000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>Register (T:/fucking uni/CAD/Project/CAD_LAB1_SADRAKHAMOSHI_97521261_AMIRESMAIELI_97521072_KEYVANDADASHZADE97522148/CAD_PHASE1/Registers.v)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VERILOG" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Configure Target Device</ClosedNode>
+         <ClosedNode>Design Utilities</ClosedNode>
+         <ClosedNode>Implement Design</ClosedNode>
+         <ClosedNode>Synthesize - XST</ClosedNode>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000010b000000010000000100000000000000000000000064ffffffff0000008100000000000000010000010b0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView guiview="File" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000000000000000100000000000000000000000000000000000002d2000000040101000100000000000000000000000064ffffffff0000008100000000000000040000006200000001000000000000004800000001000000000000005d0000000100000000000001cb0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>ALU.v</CurrentItem>
+   </ItemView>
+   <ItemView guiview="Library" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>work</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000109000000010001000100000000000000000000000064ffffffff000000810000000000000001000001090000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>work</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/ALUADDITest T:|fucking uni|CAD|Project|CAD_LAB1_SADRAKHAMOSHI_97521261_AMIRESMAIELI_97521072_KEYVANDADASHZADE97522148|CAD_PHASE1|ALUADDITest.v</ClosedNode>
+         <ClosedNode>/ALUADDTest T:|fucking uni|CAD|Project|CAD_LAB1_SADRAKHAMOSHI_97521261_AMIRESMAIELI_97521072_KEYVANDADASHZADE97522148|CAD_PHASE1|ALUADDTest.v</ClosedNode>
+         <ClosedNode>/ALUANDITest T:|fucking uni|CAD|Project|CAD_LAB1_SADRAKHAMOSHI_97521261_AMIRESMAIELI_97521072_KEYVANDADASHZADE97522148|CAD_PHASE1|ALUANDITest.v</ClosedNode>
+         <ClosedNode>/ALUANDTest T:|fucking uni|CAD|Project|CAD_LAB1_SADRAKHAMOSHI_97521261_AMIRESMAIELI_97521072_KEYVANDADASHZADE97522148|CAD_PHASE1|ALUANDTest.v</ClosedNode>
+         <ClosedNode>/ALUBEQTest T:|fucking uni|CAD|Project|CAD_LAB1_SADRAKHAMOSHI_97521261_AMIRESMAIELI_97521072_KEYVANDADASHZADE97522148|CAD_PHASE1|ALUBEQTest.v</ClosedNode>
+         <ClosedNode>/ALUBNETest T:|fucking uni|CAD|Project|CAD_LAB1_SADRAKHAMOSHI_97521261_AMIRESMAIELI_97521072_KEYVANDADASHZADE97522148|CAD_PHASE1|ALUBNETest.v</ClosedNode>
+         <ClosedNode>/ALULUITest T:|fucking uni|CAD|Project|CAD_LAB1_SADRAKHAMOSHI_97521261_AMIRESMAIELI_97521072_KEYVANDADASHZADE97522148|CAD_PHASE1|ALULUITest.v</ClosedNode>
+         <ClosedNode>/ALULWTest T:|fucking uni|CAD|Project|CAD_LAB1_SADRAKHAMOSHI_97521261_AMIRESMAIELI_97521072_KEYVANDADASHZADE97522148|CAD_PHASE1|ALULWTest.v</ClosedNode>
+         <ClosedNode>/ALUORITest T:|fucking uni|CAD|Project|CAD_LAB1_SADRAKHAMOSHI_97521261_AMIRESMAIELI_97521072_KEYVANDADASHZADE97522148|CAD_PHASE1|ALUORITest.v</ClosedNode>
+         <ClosedNode>/ALUORTest T:|fucking uni|CAD|Project|CAD_LAB1_SADRAKHAMOSHI_97521261_AMIRESMAIELI_97521072_KEYVANDADASHZADE97522148|CAD_PHASE1|ALUORTest.v</ClosedNode>
+         <ClosedNode>/ALUSLLTest T:|fucking uni|CAD|Project|CAD_LAB1_SADRAKHAMOSHI_97521261_AMIRESMAIELI_97521072_KEYVANDADASHZADE97522148|CAD_PHASE1|ALUSLLTest.v</ClosedNode>
+         <ClosedNode>/ALUSRATest T:|fucking uni|CAD|Project|CAD_LAB1_SADRAKHAMOSHI_97521261_AMIRESMAIELI_97521072_KEYVANDADASHZADE97522148|CAD_PHASE1|ALUSRATest.v</ClosedNode>
+         <ClosedNode>/ALUSRLTest T:|fucking uni|CAD|Project|CAD_LAB1_SADRAKHAMOSHI_97521261_AMIRESMAIELI_97521072_KEYVANDADASHZADE97522148|CAD_PHASE1|ALUSRLTest.v</ClosedNode>
+         <ClosedNode>/ALUSWTest T:|fucking uni|CAD|Project|CAD_LAB1_SADRAKHAMOSHI_97521261_AMIRESMAIELI_97521072_KEYVANDADASHZADE97522148|CAD_PHASE1|ALUSWTest.v</ClosedNode>
+         <ClosedNode>/ALUTest T:|fucking uni|CAD|Project|CAD_LAB1_SADRAKHAMOSHI_97521261_AMIRESMAIELI_97521072_KEYVANDADASHZADE97522148|CAD_PHASE1|ALUTest.v</ClosedNode>
+         <ClosedNode>/ALUXORITest T:|fucking uni|CAD|Project|CAD_LAB1_SADRAKHAMOSHI_97521261_AMIRESMAIELI_97521072_KEYVANDADASHZADE97522148|CAD_PHASE1|ALUXORITest.v</ClosedNode>
+         <ClosedNode>/ALUXORTest T:|fucking uni|CAD|Project|CAD_LAB1_SADRAKHAMOSHI_97521261_AMIRESMAIELI_97521072_KEYVANDADASHZADE97522148|CAD_PHASE1|ALUXORTest.v</ClosedNode>
+         <ClosedNode>/REGTest T:|fucking uni|CAD|Project|CAD_LAB1_SADRAKHAMOSHI_97521261_AMIRESMAIELI_97521072_KEYVANDADASHZADE97522148|CAD_PHASE1|REGTest.v</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>REGTest (T:/fucking uni/CAD/Project/CAD_LAB1_SADRAKHAMOSHI_97521261_AMIRESMAIELI_97521072_KEYVANDADASHZADE97522148/CAD_PHASE1/REGTest.v)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >10</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000000e4000000020000000000000000000000000200000064ffffffff000000810000000300000002000000e40000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>REGTest (T:/fucking uni/CAD/Project/CAD_LAB1_SADRAKHAMOSHI_97521261_AMIRESMAIELI_97521072_KEYVANDADASHZADE97522148/CAD_PHASE1/REGTest.v)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities/Compile HDL Simulation Libraries</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Design Utilities</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000010b000000010000000100000000000000000000000064ffffffff0000008100000000000000010000010b0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Design Utilities</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000010b000000010000000100000000000000000000000064ffffffff0000008100000000000000010000010b0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_VERILOG" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Simulate Behavioral Model</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000010b000000010000000100000000000000000000000064ffffffff0000008100000000000000010000010b0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Simulate Behavioral Model</CurrentItem>
+   </ItemView>
+   <SourceProcessView>000000ff00000000000000020000011b0000011b01000000050100000002</SourceProcessView>
+   <CurrentView>Behavioral Simulation</CurrentView>
+</Project>
