@@ -1,0 +1,4 @@
+verilog isim_temp "SR_Latch.v"
+verilog isim_temp "D_Latch.v"
+verilog isim_temp "D_FlipFlop.v"
+verilog isim_temp "U:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

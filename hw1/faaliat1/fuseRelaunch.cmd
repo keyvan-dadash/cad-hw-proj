@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "T:/fucking uni/CAD/hw1/faaliat1/str_tb_isim_beh.exe" -prj "T:/fucking uni/CAD/hw1/faaliat1/str_tb_beh.prj" "work.str_tb" "work.glbl" 

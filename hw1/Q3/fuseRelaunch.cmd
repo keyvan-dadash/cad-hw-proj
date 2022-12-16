@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "T:/fucking uni/CAD/hw1/Q3/D_FlipFlop_isim_beh.exe" -prj "T:/fucking uni/CAD/hw1/Q3/D_FlipFlop_beh.prj" "work.D_FlipFlop" "work.glbl" 
